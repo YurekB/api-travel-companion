@@ -1,0 +1,68 @@
+server error: Fri Dec 02 2022 11:32:38 GMT+0000 (Greenwich Mean Time) [
+  {
+    "error": "error"
+  }
+]
+ 
+server error: Fri Dec 02 2022 11:34:20 GMT+0000 (Greenwich Mean Time) [
+  {
+    "error": "error"
+  }
+]
+ 
+funciton check: 27/01/232023 16:53 function () {
+        console.log("Hello, world!");
+    }
+ 
+symbol check: 27/01/232023 16:53 Symbol(example)
+ 
+funciton check: 27/01/232023 16:54 function () {
+        console.log("Hello, world!");
+    }
+ 
+symbol check: 27/01/232023 16:54 Symbol(example)
+ 
+obj check: 27/01/232023 16:54 {
+  "check": 1
+}
+ 
+EMAIL CATCH ERROR:: 02/02/232023 08:59 {
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "errno": -61,
+    "code": "ECONNREFUSED",
+    "syscall": "connect",
+    "address": "127.0.0.1",
+    "port": 8889,
+    "fatal": true
+  },
+  "original": {
+    "errno": -61,
+    "code": "ECONNREFUSED",
+    "syscall": "connect",
+    "address": "127.0.0.1",
+    "port": 8889,
+    "fatal": true
+  }
+}
+ 
+EMAIL CATCH ERROR:: 02/02/232023 09:23 {
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "errno": -61,
+    "code": "ECONNREFUSED",
+    "syscall": "connect",
+    "address": "127.0.0.1",
+    "port": 8889,
+    "fatal": true
+  },
+  "original": {
+    "errno": -61,
+    "code": "ECONNREFUSED",
+    "syscall": "connect",
+    "address": "127.0.0.1",
+    "port": 8889,
+    "fatal": true
+  }
+}
+ 
